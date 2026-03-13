@@ -3,158 +3,602 @@
   "chapter": 14,
   "1": [
     [
-      "#",
-      "NAME?"
+      "\u039d\u03b1",
+      "to"
+    ],
+    [
+      "\u03b4\u03ad\u03c7\u03b5\u03c3\u03c4\u03b5",
+      "accept"
+    ],
+    [
+      "\u03cc\u03c0\u03bf\u03b9\u03bf\u03bd",
+      "anyone who"
+    ],
+    [
+      "\u03ad\u03c7\u03b5\u03b9",
+      "has"
+    ],
+    [
+      "\u03b1\u03c3\u03b8\u03b5\u03bd\u03b9\u03ba\u03ae",
+      "weak"
+    ],
+    [
+      "\u03c0\u03af\u03c3\u03c4\u03b7",
+      "faith"
+    ],
+    [
+      "\u03c7\u03c9\u03c1\u03af\u03c2",
+      "without"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03b5\u03c0\u03b9\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b5",
+      "criticize"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "the"
+    ],
+    [
+      "\u03b1\u03c0\u03cc\u03c8\u03b5\u03b9\u03c2",
+      "opinions"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "his"
     ]
   ],
   "2": [
     [
-      "#",
-      "NAME?"
+      "\u0393\u03b9\u03b1",
+      "For"
+    ],
+    [
+      "\u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1,",
+      "example,"
+    ],
+    [
+      "\u03ad\u03bd\u03b1\u03c2",
+      "one"
+    ],
+    [
+      "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03b9",
+      "believes"
+    ],
+    [
+      "\u03c0\u03c9\u03c2",
+      "that"
+    ],
+    [
+      "\u03bc\u03c0\u03bf\u03c1\u03b5\u03af",
+      "can"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03c6\u03ac\u03b5\u03b9",
+      "eat"
+    ],
+    [
+      "\u03b1\u03c0\u2019",
+      "from"
+    ],
+    [
+      "\u03cc\u03bb\u03b1,",
+      "all,"
+    ],
+    [
+      "\u03b5\u03bd\u03ce",
+      "while"
+    ],
+    [
+      "\u03ba\u03ac\u03c0\u03bf\u03b9\u03bf\u03c2",
+      "someone"
+    ],
+    [
+      "\u03ac\u03bb\u03bb\u03bf\u03c2,",
+      "else,"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03ad\u03c7\u03b5\u03b9",
+      "has"
+    ],
+    [
+      "\u03b1\u03c3\u03b8\u03b5\u03bd\u03b9\u03ba\u03ae",
+      "weak"
+    ],
+    [
+      "\u03c0\u03af\u03c3\u03c4\u03b7,",
+      "faith,"
+    ],
+    [
+      "\u03c4\u03c1\u03ce\u03b5\u03b9",
+      "eats"
+    ],
+    [
+      "\u03bc\u03cc\u03bd\u03bf",
+      "only"
+    ],
+    [
+      "\u03c7\u03cc\u03c1\u03c4\u03b1.",
+      "greens."
     ]
   ],
   "3": [
     [
-      "#",
-      "NAME?"
+      "\u0391\u03c5\u03c4\u03cc\u03c2",
+      "This"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03c4\u03c1\u03ce\u03b5\u03b9",
+      "eats"
+    ],
+    [
+      "\u03b1\u03c0\u2019",
+      "from"
+    ],
+    [
+      "\u03cc\u03bb\u03b1",
+      "all,"
+    ],
+    [
+      "\u03b1\u03c2",
+      "let"
+    ],
+    [
+      "\u03bc\u03b7\u03bd",
+      "not"
+    ],
+    [
+      "\u03c0\u03b5\u03c1\u03b9\u03c6\u03c1\u03bf\u03bd\u03b5\u03af",
+      "despise"
+    ],
+    [
+      "\u03b5\u03ba\u03b5\u03af\u03bd\u03bf\u03bd",
+      "that one"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03b4\u03b5\u03bd",
+      "not"
+    ],
+    [
+      "\u03c4\u03c1\u03ce\u03b5\u03b9",
+      "eats"
+    ],
+    [
+      "\u03ba\u03b9",
+      "and"
+    ],
+    [
+      "\u03b5\u03ba\u03b5\u03af\u03bd\u03bf\u03c2",
+      "that one"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03b4\u03b5\u03bd",
+      "not"
+    ],
+    [
+      "\u03c4\u03c1\u03ce\u03b5\u03b9",
+      "eats"
+    ],
+    [
+      "\u03b1\u03c2",
+      "let"
+    ],
+    [
+      "\u03bc\u03b7\u03bd",
+      "not"
+    ],
+    [
+      "\u03ba\u03b1\u03c4\u03b1\u03ba\u03c1\u03af\u03bd\u03b5\u03b9",
+      "judge"
+    ],
+    [
+      "\u03b5\u03ba\u03b5\u03af\u03bd\u03bf\u03bd",
+      "that one"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03c4\u03c1\u03ce\u03b5\u03b9",
+      "eats"
+    ],
+    [
+      "\u03b3\u03b9\u03b1\u03c4\u03af",
+      "because"
+    ],
+    [
+      "\u03bf",
+      "the"
+    ],
+    [
+      "\u0398\u03b5\u03cc\u03c2",
+      "God"
+    ],
+    [
+      "\u03c4\u03bf\u03bd",
+      "him"
+    ],
+    [
+      "\u03ad\u03c7\u03b5\u03b9",
+      "has"
+    ],
+    [
+      "\u03b4\u03b5\u03c7\u03c4\u03b5\u03af",
+      "accepted"
+    ],
+    [
+      "\u03c3\u03c4\u03b7\u03bd",
+      "in the"
+    ],
+    [
+      "\u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1",
+      "church"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "his"
     ]
   ],
   "4": [
     [
-      "#",
-      "NAME?"
+      "\u03a0\u03bf\u03b9\u03bf\u03c2",
+      "Who"
+    ],
+    [
+      "\u03b5\u03af\u03c3\u03b1\u03b9",
+      "are"
+    ],
+    [
+      "\u03b5\u03c3\u03cd",
+      "you"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u03ba\u03c1\u03af\u03bd\u03b5\u03b9\u03c2",
+      "judge"
+    ],
+    [
+      "\u03ad\u03bd\u03b1\u03bd",
+      "a"
+    ],
+    [
+      "\u03be\u03ad\u03bd\u03bf",
+      "foreign"
+    ],
+    [
+      "\u03c5\u03c0\u03b7\u03c1\u03ad\u03c4\u03b7",
+      "servant"
+    ],
+    [
+      ";:;",
+      ""
+    ],
+    [
+      "\u039c\u03cc\u03bd\u03bf",
+      "Only"
+    ],
+    [
+      "\u03bf",
+      "the"
+    ],
+    [
+      "\u039a\u03cd\u03c1\u03b9\u03cc\u03c2",
+      "Lord"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "his"
+    ],
+    [
+      "\u03bc\u03c0\u03bf\u03c1\u03b5\u03af",
+      "can"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03ba\u03c1\u03af\u03bd\u03b5\u03b9",
+      "judge"
+    ],
+    [
+      "\u03b1\u03bd",
+      "if"
+    ],
+    [
+      "\u03c3\u03c4\u03ad\u03ba\u03b5\u03c4\u03b1\u03b9",
+      "stands"
+    ],
+    [
+      "\u03ae",
+      "or"
+    ],
+    [
+      "\u03cc\u03c7\u03b9",
+      "not"
+    ],
+    [
+      "\u03c3\u03c4\u03b7\u03bd",
+      "in the"
+    ],
+    [
+      "\u03c0\u03af\u03c3\u03c4\u03b7",
+      "faith"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "his"
+    ],
+    [
+      ",:,",
+      ""
+    ],
+    [
+      "\u03b3\u03b9\u03b1\u03c4\u03af",
+      "because"
+    ],
+    [
+      "\u03bf",
+      "the"
+    ],
+    [
+      "\u0398\u03b5\u03cc\u03c2",
+      "God"
+    ],
+    [
+      "\u03ad\u03c7\u03b5\u03b9",
+      "has"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the"
+    ],
+    [
+      "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b7",
+      "power"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03c4\u03bf\u03bd",
+      "him"
+    ],
+    [
+      "\u03c3\u03c4\u03b7\u03c1\u03af\u03be\u03b5\u03b9",
+      "support .:."
     ]
   ],
   "5": [
     [
-      "#",
-      "NAME?"
+      "\u0386\u03bb\u03bb\u03bf\u03b9",
+      "Others"
+    ],
+    [
+      "\u03ba\u03ac\u03bd\u03bf\u03c5\u03bd",
+      "do"
+    ],
+    [
+      "\u03b4\u03b9\u03ac\u03ba\u03c1\u03b9\u03c3\u03b7",
+      "distinction"
+    ],
+    [
+      "\u03b1\u03bd\u03ac\u03bc\u03b5\u03c3\u03b1",
+      "between"
+    ],
+    [
+      "\u03c3\u03c4\u03b9\u03c2",
+      "the"
+    ],
+    [
+      "\u03bc\u03ad\u03c1\u03b5\u03c2",
+      "days,"
+    ],
+    [
+      "\u03b5\u03bd\u03ce",
+      "while"
+    ],
+    [
+      "\u03ac\u03bb\u03bb\u03bf\u03b9",
+      "others"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "them"
+    ],
+    [
+      "\u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03bd",
+      "consider"
+    ],
+    [
+      "\u03cc\u03bb\u03b5\u03c2",
+      "all"
+    ],
+    [
+      "\u03af\u03b4\u03b9\u03b5\u03c2",
+      "same."
+    ],
+    [
+      "\u0391\u03c2",
+      "Let"
+    ],
+    [
+      "\u03ba\u03ac\u03bd\u03b5\u03b9",
+      "do"
+    ],
+    [
+      "\u03ba\u03b1\u03b8\u03ad\u03bd\u03b1\u03c2",
+      "each"
+    ],
+    [
+      "\u03cc,\u03c4\u03b9",
+      "whatever"
+    ],
+    [
+      "\u03bd\u03bf\u03bc\u03af\u03b6\u03b5\u03b9",
+      "thinks"
+    ],
+    [
+      "\u03c3\u03c9\u03c3\u03c4\u03cc",
+      "right."
     ]
   ],
   "6": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "7": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "8": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "9": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "10": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "11": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "12": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "13": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "14": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "15": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "16": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "17": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "18": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "19": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "20": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "21": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "22": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "23": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "24": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "25": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ],
   "26": [
     [
       "#",
-      "NAME?"
+      "VALUE!"
     ]
   ]
 }
