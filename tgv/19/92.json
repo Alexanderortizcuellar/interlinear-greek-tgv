@@ -3,98 +3,930 @@
   "chapter": 92,
   "1": [
     [
-      "0",
-      ""
+      "\u03a8\u03b1\u03bb\u03bc\u03cc\u03c2",
+      "Psalm"
+    ],
+    [
+      "\u03c9\u03b4\u03ae",
+      "ode"
+    ],
+    [
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the (feminine singular accusative)"
+    ],
+    [
+      "\u03b7\u03bc\u03ad\u03c1\u03b1",
+      "day"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the (masculine singular genitive)"
+    ],
+    [
+      "\u03a3\u03b1\u03b2\u03b2\u03ac\u03c4\u03bf\u03c5",
+      "Sabbath (Saturday)"
     ]
   ],
   "2": [
     [
-      "0",
-      ""
+      "\u0395\u03af\u03bd\u03b1\u03b9",
+      "is"
+    ],
+    [
+      "\u03ba\u03b1\u03bb\u03cc",
+      "good"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03c3\u2019",
+      "you (accusative clitic)"
+    ],
+    [
+      "\u03b5\u03be\u03c5\u03bc\u03bd\u03bf\u03cd\u03bd\u03b5",
+      "they praise"
+    ],
+    [
+      "\u039a\u03cd\u03c1\u03b9\u03b5",
+      "Lord (vocative)"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae",
+      "music"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03c0\u03b1\u03af\u03b6\u03bf\u03c5\u03bd\u03b5",
+      "they play"
+    ],
+    [
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03c3\u03ad\u03bd\u03b1",
+      "you (accusative)"
+    ],
+    [
+      "\u038e\u03c8\u03b9\u03c3\u03c4\u03b5",
+      "Most High (vocative)"
     ]
   ],
   "3": [
     [
-      "0",
-      ""
+      "\u0391\u03c0\u2019",
+      "from"
+    ],
+    [
+      "\u03c4\u03bf",
+      "the"
+    ],
+    [
+      "\u03c0\u03c1\u03c9\u03af",
+      "morning"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03bb\u03b1\u03bb\u03bf\u03cd\u03bd",
+      "proclaim"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the"
+    ],
+    [
+      "\u03b5\u03c5\u03c3\u03c0\u03bb\u03b1\u03c7\u03bd\u03af\u03b1",
+      "compassion"
+    ],
+    [
+      "\u03c3\u03bf\u03c5",
+      "your"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the"
+    ],
+    [
+      "\u03c0\u03b9\u03c3\u03c4\u03cc\u03c4\u03b7\u03c4\u03ac",
+      "faithfulness"
+    ],
+    [
+      "\u03c3\u03bf\u03c5",
+      "your"
+    ],
+    [
+      "\u03cc\u03bb\u03b7",
+      "all"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the"
+    ],
+    [
+      "\u03bd\u03cd\u03c7\u03c4\u03b1",
+      "night"
     ]
   ],
   "4": [
     [
-      "0",
-      ""
+      "\u03bc\u03b5",
+      "with"
+    ],
+    [
+      "\u03bb\u03cd\u03c1\u03b1",
+      "lyre"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03bc\u03b5",
+      "with"
+    ],
+    [
+      "\u03cc\u03c1\u03b3\u03b1\u03bd\u03bf",
+      "instrument"
+    ],
+    [
+      "\u03b4\u03b5\u03ba\u03ac\u03c7\u03bf\u03c1\u03b4\u03bf",
+      "ten-stringed"
+    ],
+    [
+      "\u03bc\u03b5",
+      "with"
+    ],
+    [
+      "\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1",
+      "songs"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03bc\u03b5",
+      "with"
+    ],
+    [
+      "\u03ba\u03b9\u03b8\u03ac\u03c1\u03b1",
+      "guitar"
     ]
   ],
   "5": [
     [
-      "0",
-      ""
+      "\u039c\u03b5",
+      "With"
+    ],
+    [
+      "\u03c4\u03b1",
+      "the"
+    ],
+    [
+      "\u03ad\u03c1\u03b3\u03b1",
+      "works"
+    ],
+    [
+      "\u03c3\u03bf\u03c5",
+      "your"
+    ],
+    [
+      "\u03c7\u03b1\u03c1\u03ac",
+      "joy"
+    ],
+    [
+      "\u03bc\u03bf\u03c5",
+      "my"
+    ],
+    [
+      "\u2019\u03b4\u03c9\u03c3\u03b5\u03c2",
+      "you gave"
+    ],
+    [
+      "\u039a\u03cd\u03c1\u03b9\u03b5",
+      "Lord"
+    ],
+    [
+      "\u03b8\u2019",
+      "will"
+    ],
+    [
+      "\u03b1\u03b3\u03ac\u03bb\u03bb\u03bf\u03bc\u03b1\u03b9",
+      "I rejoice"
+    ],
+    [
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03cc\u03c3\u03b1",
+      "what"
+    ],
+    [
+      "\u03ad\u03c7\u03b5\u03b9\u03c2",
+      "you have"
+    ],
+    [
+      "\u03c6\u03c4\u03b9\u03ac\u03be\u03b5\u03b9",
+      "made"
     ]
   ],
   "6": [
     [
-      "0",
+      "\u03a0\u03cc\u03c3\u03bf",
+      "How much"
+    ],
+    [
+      "\u03bc\u03b5\u03b3\u03ac\u03bb\u03b1",
+      "big"
+    ],
+    [
+      "\u039a\u03cd\u03c1\u03b9\u03b5",
+      "Lord"
+    ],
+    [
+      "\u03c4\u03b1",
+      "the"
+    ],
+    [
+      "\u03ad\u03c1\u03b3\u03b1",
+      "works"
+    ],
+    [
+      "\u03c3\u03bf\u03c5",
+      "your"
+    ],
+    [
+      "!",
       ""
+    ],
+    [
+      "\u03a0\u03bf\u03bb\u03cd",
+      "Very"
+    ],
+    [
+      "\u03b2\u03b1\u03b8\u03b9\u03ad\u03c2",
+      "deep"
+    ],
+    [
+      "\u03bf\u03b9",
+      "the"
+    ],
+    [
+      "\u03c3\u03ba\u03ad\u03c8\u03b5\u03b9\u03c2",
+      "thoughts"
+    ],
+    [
+      "\u03c3\u03bf\u03c5",
+      "your !"
     ]
   ],
   "7": [
     [
-      "0",
+      "\u039f",
+      "The"
+    ],
+    [
+      "\u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+      "man"
+    ],
+    [
+      "\u03bf",
+      "the"
+    ],
+    [
+      "\u03b1\u03bd\u03cc\u03b7\u03c4\u03bf\u03c2",
+      "foolish"
+    ],
+    [
+      "\u03b4\u03b5\u03bd",
+      "not"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "them"
+    ],
+    [
+      "\u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03b5\u03b9",
+      "knows"
+    ],
+    [
+      "\u0387:;",
       ""
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03bf",
+      "the"
+    ],
+    [
+      "\u03bc\u03c9\u03c1\u03cc\u03c2",
+      "fool"
+    ],
+    [
+      "\u03b4\u03b5\u03bd",
+      "not"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "them"
+    ],
+    [
+      "\u03b1\u03bd\u03c4\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
+      "perceives .:."
     ]
   ],
   "8": [
     [
-      "0",
+      "\u03a8\u03b7\u03bb\u03ce\u03bd\u03bf\u03c5\u03bd",
+      "They grow tall"
+    ],
+    [
+      "\u03bf\u03b9",
+      "the"
+    ],
+    [
+      "\u03b1\u03c3\u03b5\u03b2\u03b5\u03af\u03c2",
+      "impious/disrespectful"
+    ],
+    [
+      "\u03c3\u03b1\u03bd",
+      "like/as"
+    ],
+    [
+      "\u03c4\u03bf",
+      "the"
+    ],
+    [
+      "\u03c7\u03bf\u03c1\u03c4\u03ac\u03c1\u03b9",
+      "grass"
+    ],
+    [
+      ",",
       ""
+    ],
+    [
+      "\u03ba\u03b9",
+      "and"
+    ],
+    [
+      "\u03b1\u03bd\u03b8\u03af\u03b6\u03bf\u03c5\u03bd",
+      "they bloom"
+    ],
+    [
+      "\u03cc\u03bb\u03bf\u03b9",
+      "all"
+    ],
+    [
+      "\u03bf\u03b9",
+      "the"
+    ],
+    [
+      "\u03b4\u03c1\u03ac\u03c3\u03c4\u03b5\u03c2",
+      "perpetrators"
+    ],
+    [
+      "\u03c4\u03b7\u03c2",
+      "of the"
+    ],
+    [
+      "\u03c0\u03b1\u03c1\u03b1\u03bd\u03bf\u03bc\u03af\u03b1\u03c2",
+      "lawlessness/illegality"
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      "\u03bc\u03b1",
+      "but"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u03b5\u03be\u03b1\u03c6\u03b1\u03bd\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd",
+      "disappear"
+    ],
+    [
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03c0\u03ac\u03bd\u03c4\u03b1",
+      "always/forever ."
     ]
   ],
   "9": [
     [
-      "0",
-      ""
+      "\u039a\u03b9",
+      "And"
+    ],
+    [
+      "\u03b5\u03c3\u03cd",
+      "you"
+    ],
+    [
+      "\u03cd\u03c8\u03b9\u03c3\u03c4\u03bf\u03c2",
+      "highest"
+    ],
+    [
+      "\u03bc\u03ad\u03bd\u03b5\u03b9\u03c2",
+      "you remain"
+    ],
+    [
+      "\u03c3\u03c4\u03bf\u03bd",
+      "in the"
+    ],
+    [
+      "\u03b1\u03b9\u03ce\u03bd\u03b1",
+      "age"
+    ],
+    [
+      "\u039a\u03cd\u03c1\u03b9\u03b5",
+      "Lord"
     ]
   ],
   "10": [
     [
-      "0",
+      "\u039a\u03b9",
+      "And"
+    ],
+    [
+      "\u03cc\u03c3\u03bf",
+      "as much as"
+    ],
+    [
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "the (accusative plural masculine)"
+    ],
+    [
+      "\u03b5\u03c7\u03b8\u03c1\u03bf\u03cd\u03c2",
+      "enemies"
+    ],
+    [
+      "\u03c3\u03bf\u03c5",
+      "your"
+    ],
+    [
+      "\u039a\u03cd\u03c1\u03b9\u03b5",
+      "Lord"
+    ],
+    [
+      "\u03b1\u03c5\u03c4\u03bf\u03af",
+      "these"
+    ],
+    [
+      "\u03cc\u03bb\u03bf\u03b9",
+      "all"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03b1\u03c6\u03bf\u03cd\u03bd",
+      "be destroyed"
+    ],
+    [
+      "\u0387:;",
       ""
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03c3\u03ba\u03bf\u03c1\u03c0\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd\u03b5",
+      "be scattered"
+    ],
+    [
+      "\u03cc\u03bb\u03bf\u03b9",
+      "all"
+    ],
+    [
+      "\u03c4\u03b7\u03c2",
+      "of the (genitive singular feminine)"
+    ],
+    [
+      "\u03b1\u03bd\u03bf\u03bc\u03af\u03b1\u03c2",
+      "lawlessness"
+    ],
+    [
+      "\u03bf\u03b9",
+      "the (nominative plural masculine)"
+    ],
+    [
+      "\u03b4\u03c1\u03ac\u03c3\u03c4\u03b5\u03c2",
+      "perpetrators .:."
     ]
   ],
   "11": [
     [
-      "0",
-      ""
+      "\u039c\u2019",
+      "Me"
+    ],
+    [
+      "\u03ad\u03ba\u03b1\u03bd\u03b5\u03c2",
+      "you made"
+    ],
+    [
+      "\u03b4\u03c5\u03bd\u03b1\u03c4\u03cc",
+      "strong"
+    ],
+    [
+      "\u03c3\u03b1\u03bd",
+      "like"
+    ],
+    [
+      "\u03b1\u03b3\u03c1\u03b9\u03bf\u03b2\u03bf\u03cd\u03b2\u03b1\u03bb\u03bf\u0387",
+      "wild buffalo;"
+    ],
+    [
+      "\u03bc\u2019",
+      "me"
+    ],
+    [
+      "\u03ad\u03c7\u03c1\u03b9\u03c3\u03b5\u03c2",
+      "you anointed"
+    ],
+    [
+      "\u03bc\u03b5",
+      "with"
+    ],
+    [
+      "\u03ba\u03b1\u03b9\u03bd\u03bf\u03cd\u03c1\u03b9\u03bf",
+      "new"
+    ],
+    [
+      "\u03bb\u03ac\u03b4\u03b9.",
+      "oil."
     ]
   ],
   "12": [
     [
-      "0",
-      ""
+      "\u03a4\u03b1",
+      "The"
+    ],
+    [
+      "\u03bc\u03ac\u03c4\u03b9\u03b1",
+      "eyes"
+    ],
+    [
+      "\u03bc\u03bf\u03c5",
+      "my"
+    ],
+    [
+      "\u03b2\u03bb\u03ad\u03c0\u03bf\u03c5\u03bd",
+      "see"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the"
+    ],
+    [
+      "\u03c0\u03c4\u03ce\u03c3\u03b7",
+      "fall"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03b5\u03c7\u03b8\u03c1\u03ce\u03bd",
+      "enemies"
+    ],
+    [
+      "\u03bc\u03bf\u03c5",
+      "my\u0387"
+    ],
+    [
+      "\u03c4\u03b7\u03c2",
+      "of the"
+    ],
+    [
+      "\u03b1\u03bd\u03bf\u03bc\u03af\u03b1\u03c2",
+      "lawlessness"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "their"
+    ],
+    [
+      "\u03b4\u03c1\u03ac\u03c3\u03c4\u03b5\u03c2",
+      "perpetrators"
+    ],
+    [
+      "\u03b8\u2019",
+      "will"
+    ],
+    [
+      "\u03b1\u03ba\u03bf\u03cd\u03c9",
+      "hear"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "that"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u03c5\u03c0\u03bf\u03c6\u03ad\u03c1\u03bf\u03c5\u03bd",
+      "suffer,"
+    ],
+    [
+      "\u03b1\u03c5\u03c4\u03bf\u03cd\u03c2",
+      "those"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd",
+      "against"
+    ],
+    [
+      "\u03bc\u03bf\u03c5",
+      "me"
+    ],
+    [
+      "\u03bc\u03b5",
+      "with"
+    ],
+    [
+      "\u03bc\u03bf\u03c7\u03b8\u03b7\u03c1\u03af\u03b1",
+      "malice"
+    ],
+    [
+      "\u03c3\u03c4\u03c1\u03b1\u03c6\u03ae\u03ba\u03b1\u03bd",
+      "turned."
     ]
   ],
   "13": [
     [
-      "0",
-      ""
+      "\u039f",
+      "The"
+    ],
+    [
+      "\u03b4\u03af\u03ba\u03b1\u03b9\u03bf\u03c2",
+      "just/righteous"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u03c6\u03bf\u03c5\u03bd\u03c4\u03ce\u03c3\u03b5\u03b9",
+      "flare up/grow"
+    ],
+    [
+      "\u03c3\u03b1\u03bd",
+      "like/as"
+    ],
+    [
+      "\u03c4\u03bf",
+      "the"
+    ],
+    [
+      "\u03c6\u03bf\u03af\u03bd\u03b9\u03ba\u03b1",
+      "palm tree/phoenix"
+    ],
+    [
+      "\u03c3\u03b1\u03bd",
+      "like/as"
+    ],
+    [
+      "\u03ba\u03ad\u03b4\u03c1\u03bf\u03c2",
+      "cedar"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039b\u03b9\u03b2\u03ac\u03bd\u03bf\u03c5",
+      "Lebanon"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u03c8\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9",
+      "grow tall"
     ]
   ],
   "14": [
     [
-      "0",
-      ""
+      "\u03a3\u03b1\u03bd",
+      "Like"
+    ],
+    [
+      "\u03c4\u03b1",
+      "the(plural)"
+    ],
+    [
+      "\u03c6\u03c5\u03c4\u03ac",
+      "plants"
+    ],
+    [
+      "\u03c3\u03c4\u03bf\u03bd",
+      "in the"
+    ],
+    [
+      "\u03bf\u03af\u03ba\u03bf",
+      "house"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
+      "Lord"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "that"
+    ],
+    [
+      "\u03c3\u03c4\u03bf\u03c5",
+      "in the"
+    ],
+    [
+      "\u0398\u03b5\u03bf\u03cd",
+      "God"
+    ],
+    [
+      "\u03bc\u03b1\u03c2",
+      "our"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "the(plural)"
+    ],
+    [
+      "\u03b1\u03c5\u03bb\u03ad\u03c2",
+      "courtyards"
+    ],
+    [
+      "\u03b1\u03bd\u03b8\u03bf\u03cd\u03bd",
+      "bloom"
     ]
   ],
   "15": [
     [
-      "0",
-      ""
+      "\u039a\u03b1\u03c1\u03c0\u03cc",
+      "fruit"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u03b4\u03af\u03bd\u03b5\u03b9",
+      "give"
+    ],
+    [
+      "\u03c9\u03c2",
+      "until"
+    ],
+    [
+      "\u03c4\u03b1",
+      "the"
+    ],
+    [
+      "\u03b3\u03b7\u03c1\u03b1\u03c4\u03b5\u03b9\u03ac",
+      "old age"
+    ],
+    [
+      "\u03b8\u03b1",
+      "will"
+    ],
+    [
+      "\u2019\u03bd\u03b1\u03b9",
+      "be"
+    ],
+    [
+      "\u03b1\u03ba\u03bc\u03b1\u03af\u03bf\u03c2",
+      "vigorous"
+    ],
+    [
+      "\u03ba\u03b9",
+      "and"
+    ],
+    [
+      "\u03b1\u03b3\u03ad\u03c1\u03b1\u03c3\u03c4\u03bf\u03c2",
+      "unaging"
     ]
   ],
   "16": [
     [
-      "0",
-      ""
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03b7\u03c1\u03cd\u03c4\u03c4\u03b5\u03b9",
+      "proclaim:"
+    ],
+    [
+      "\u00ab\u039f",
+      "The"
+    ],
+    [
+      "\u039a\u03cd\u03c1\u03b9\u03bf\u03c2",
+      "Lord"
+    ],
+    [
+      "\u03b5\u03af\u03bd\u03b1\u03b9",
+      "is"
+    ],
+    [
+      "\u03b4\u03af\u03ba\u03b1\u03b9\u03bf\u03c2,",
+      "just,"
+    ],
+    [
+      "\u03b5\u03af\u03bd\u03b1\u03b9",
+      "is"
+    ],
+    [
+      "\u03c4\u03bf",
+      "the"
+    ],
+    [
+      "\u03c6\u03c1\u03bf\u03cd\u03c1\u03b9\u03cc",
+      "fortress"
+    ],
+    [
+      "\u03bc\u03bf\u03c5,",
+      "my,"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c3\u2019",
+      "in"
+    ],
+    [
+      "\u03b1\u03c5\u03c4\u03cc\u03bd",
+      "him"
+    ],
+    [
+      "\u03b4\u03b5",
+      "not"
+    ],
+    [
+      "\u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9",
+      "is found"
+    ],
+    [
+      "\u03b1\u03b4\u03b9\u03ba\u03af\u03b1",
+      "injustice"
+    ],
+    [
+      "\u03ba\u03b1\u03bc\u03b9\u03ac\u00bb.",
+      "any."
     ]
   ]
 }

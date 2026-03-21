@@ -3,422 +3,3374 @@
   "chapter": 2,
   "1": [
     [
-      "0",
-      ""
+      "{\"\u039a\u03b1\u03c4\u03ac\u03bb\u03bf\u03b3\u03bf\u03c2\":\"",
+      "List\"}"
+    ],
+    [
+      "{\"\u03c4\u03c9\u03bd\":\"",
+      "of the\"}"
+    ],
+    [
+      "{\"\u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03c9\u03bd\":\"",
+      "inhabitants\"}"
+    ],
+    [
+      "{\"\u03c4\u03b7\u03c2\":\"",
+      "of the\"}"
+    ],
+    [
+      "{\"\u03b5\u03c0\u03b1\u03c1\u03c7\u03af\u03b1\u03c2\":\"",
+      "province\"}"
+    ],
+    [
+      "{\"(\u0399\u03bf\u03c5\u03b4\u03b1\u03af\u03b1\u03c2),\":\"(",
+      "Judea),\"}"
+    ],
+    [
+      "{\"\u03c0\u03bf\u03c5\":\"",
+      "who\"}"
+    ],
+    [
+      "{\"\u03b5\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1\u03bd\":\"",
+      "returned\"}"
+    ],
+    [
+      "{\"\u03b1\u03c0\u03cc\":\"",
+      "from\"}"
+    ],
+    [
+      "{\"\u03c4\u03b7\u03bd\":\"",
+      "the\"}"
+    ],
+    [
+      "{\"\u03b1\u03b9\u03c7\u03bc\u03b1\u03bb\u03c9\u03c3\u03af\u03b1\":\"",
+      "captivity\"}"
+    ],
+    [
+      "{\"\u03c4\u03b7\u03c2\":\"",
+      "of the\"}"
+    ],
+    [
+      "{\"\u0392\u03b1\u03b2\u03c5\u03bb\u03ce\u03bd\u03b1\u03c2,\":\"",
+      "Babylon,\"}"
+    ],
+    [
+      "{\"\u03cc\u03c0\u03bf\u03c5\":\"",
+      "where\"}"
+    ],
+    [
+      "{\"\u03c4\u03bf\u03c5\u03c2\":\"",
+      "them\"}"
+    ],
+    [
+      "{\"\u03b5\u03af\u03c7\u03b5\":\"",
+      "had\"}"
+    ],
+    [
+      "{\"\u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9\":\"",
+      "brought\"}"
+    ],
+    [
+      "{\"\u03c9\u03c2\":\"",
+      "as\"}"
+    ],
+    [
+      "{\"\u03b1\u03b9\u03c7\u03bc\u03b1\u03bb\u03ce\u03c4\u03bf\u03c5\u03c2\":\"",
+      "captives\"}"
+    ],
+    [
+      "{\"\u03bf\":\"",
+      "the\"}"
+    ],
+    [
+      "{\"\u03b2\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac\u03c2\":\"",
+      "king\"}"
+    ],
+    [
+      "{\"\u03c4\u03b7\u03c2\":\"",
+      "of the\"}"
+    ],
+    [
+      "{\"\u0392\u03b1\u03b2\u03c5\u03bb\u03ce\u03bd\u03b1\u03c2\":\"",
+      "Babylon\"}"
+    ],
+    [
+      "{\"\u039d\u03b1\u03b2\u03bf\u03c5\u03c7\u03bf\u03b4\u03bf\u03bd\u03cc\u03c3\u03bf\u03c1.\":\"",
+      "Nebuchadnezzar.\"}"
+    ],
+    [
+      "{\"\u038c\u03bb\u03bf\u03b9\":\"",
+      "All\"}"
+    ],
+    [
+      "{\"\u03c4\u03bf\u03c5\u03c2\":\"",
+      "them\"}"
+    ],
+    [
+      "{\"\u03b3\u03cd\u03c1\u03b9\u03c3\u03b1\u03bd\":\"",
+      "returned\"}"
+    ],
+    [
+      "{\"\u03c3\u03c4\u03b7\u03bd\":\"",
+      "to the\"}"
+    ],
+    [
+      "{\"\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc\":\"",
+      "Jerusalem\"}"
+    ],
+    [
+      "{\"\u03ba\u03b1\u03b9\":\"",
+      "and\"}"
+    ],
+    [
+      "{\"\u03c3\u03c4\u03b7\":\"",
+      "to the\"}"
+    ],
+    [
+      "{\"\u03c7\u03ce\u03c1\u03b1\":\"",
+      "land\"}"
+    ],
+    [
+      "{\"\u03c4\u03bf\u03c5\":\"",
+      "of the\"}"
+    ],
+    [
+      "{\"\u0399\u03bf\u03cd\u03b4\u03b1,\":\"",
+      "Judea,\"}"
+    ],
+    [
+      "{\"\u03ba\u03b1\u03b8\u03ad\u03bd\u03b1\u03c2\":\"",
+      "each\"}"
+    ],
+    [
+      "{\"\u03c3\u03c4\u03b7\u03bd\":\"",
+      "to the\"}"
+    ],
+    [
+      "{\"\u03c0\u03cc\u03bb\u03b7\":\"",
+      "city\"}"
+    ],
+    [
+      "{\"\u03c4\u03bf\u03c5.\":\"",
+      "of his.\"}"
     ]
   ],
   "2": [
     [
-      "0",
+      "\u03a3\u03c4\u03b7\u03bd",
       ""
+    ],
+    [
+      "\u03c0\u03bf\u03c1\u03b5\u03af\u03b1",
+      ""
+    ],
+    [
+      "\u03c4\u03b7\u03c2",
+      ""
+    ],
+    [
+      "\u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae\u03c2",
+      ""
+    ],
+    [
+      "\u03b1\u03c1\u03c7\u03b7\u03b3\u03bf\u03af",
+      ""
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      ""
+    ],
+    [
+      "\u03ae\u03c4\u03b1\u03bd",
+      ""
+    ],
+    [
+      "\u03bf\u03b9",
+      ""
+    ],
+    [
+      "\u0396\u03bf\u03c1\u03bf\u03b2\u03ac\u03b2\u03b5\u03bb,",
+      ""
+    ],
+    [
+      "\u0399\u03b7\u03c3\u03bf\u03cd\u03c2,",
+      ""
+    ],
+    [
+      "\u039d\u03b5\u03b5\u03bc\u03af\u03b1\u03c2,",
+      ""
+    ],
+    [
+      "\u03a3\u03b5\u03c1\u03b1\u0390\u03b1\u03c2,",
+      ""
+    ],
+    [
+      "\u03a1\u03b5\u03b5\u03bb\u03b1\u0390\u03b1\u03c2,",
+      ""
+    ],
+    [
+      "\u039c\u03b1\u03c1\u03b4\u03bf\u03c7\u03b1\u03af\u03bf\u03c2,",
+      ""
+    ],
+    [
+      "\u0392\u03b9\u03bb\u03c3\u03ac\u03bd,",
+      ""
+    ],
+    [
+      "\u039c\u03b9\u03c3\u03c0\u03ac\u03c1,",
+      ""
+    ],
+    [
+      "\u0392\u03b9\u03b3\u03b2\u03ac\u03b9,",
+      ""
+    ],
+    [
+      "\u03a1\u03b5\u03c7\u03bf\u03cd\u03bc",
+      ""
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      ""
+    ],
+    [
+      "\u0392\u03b1\u03b1\u03bd\u03ac.",
+      ""
+    ],
+    [
+      "\u0391\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af",
+      ""
+    ],
+    [
+      "\u03ba\u03b1\u03c4\u03ac\u03bb\u03bf\u03b3\u03bf\u03c2",
+      ""
+    ],
+    [
+      "\u03ba\u03b1\u03c4\u03ac",
+      ""
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2",
+      ""
+    ],
+    [
+      "\u03bc\u03b5",
+      ""
+    ],
+    [
+      "\u03c4\u03bf\u03bd",
+      ""
+    ],
+    [
+      "\u03b1\u03c1\u03b9\u03b8\u03bc\u03cc",
+      ""
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      ""
+    ],
+    [
+      "\u03b1\u03bd\u03c4\u03c1\u03ce\u03bd",
+      ""
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      ""
+    ],
+    [
+      "\u03bb\u03b1\u03bf\u03cd",
+      ""
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      ""
+    ],
+    [
+      "\u0399\u03c3\u03c1\u03b1\u03ae\u03bb,",
+      ""
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      ""
+    ],
+    [
+      "\u03b5\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1\u03bd",
+      ""
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      ""
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      ""
+    ],
+    [
+      "\u03b1\u03b9\u03c7\u03bc\u03b1\u03bb\u03c9\u03c3\u03af\u03b1",
+      "In the course of return leaders their were the Zorobabel, Jesus, Nehemiah, Seraias, Reelaiah, Mardochai, Bilsan, Mispar, Bigvai, Rehum and Baanah. Follows list by kinships with the number of men of the people of Israel, who returned from the captivity:"
     ]
   ],
   "3": [
     [
-      "0",
-      ""
+      "\u0397",
+      "the"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1",
+      "kinship"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a6\u03b1\u03c1\u03ce\u03c2",
+      "Pharos"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousands"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc\u03bd",
+      "hundred"
+    ],
+    [
+      "\u03b5\u03b2\u03b4\u03bf\u03bc\u03ae\u03bd\u03c4\u03b1",
+      "seventy"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men"
     ]
   ],
   "4": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03b5\u03c6\u03b1\u03c4\u03af\u03b1",
+      "Sephatia"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "three hundred"
+    ],
+    [
+      "\u03b5\u03b2\u03b4\u03bf\u03bc\u03ae\u03bd\u03c4\u03b1",
+      "seventy"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
     ]
   ],
   "5": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03c1\u03ac\u03c7",
+      "Arach"
+    ],
+    [
+      "\u03b5\u03c6\u03c4\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "seven hundred"
+    ],
+    [
+      "\u03b5\u03b2\u03b4\u03bf\u03bc\u03ae\u03bd\u03c4\u03b1",
+      "seventy"
+    ],
+    [
+      "\u03c0\u03ad\u03bd\u03c4\u03b5",
+      "five"
     ]
   ],
   "6": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a6\u03b1\u03c7\u03ac\u03b8-\u039c\u03c9\u03ac\u03b2",
+      "Fahath-Moab"
+    ],
+    [
+      "(\u03b1\u03c0\u03cc\u03b3\u03bf\u03bd\u03bf\u03b9",
+      "descendants"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0399\u03b7\u03c3\u03bf\u03cd",
+      "Jesus"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0399\u03c9\u03ac\u03b2",
+      "Joab),"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousand"
+    ],
+    [
+      "\u03bf\u03ba\u03c4\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "eight hundred"
+    ],
+    [
+      "\u03b4\u03ce\u03b4\u03b5\u03ba\u03b1",
+      "twelve\u0387"
     ]
   ],
   "7": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0395\u03bb\u03ac\u03bc",
+      "Elam"
+    ],
+    [
+      "\u03c7\u03af\u03bb\u03b9\u03bf\u03b9",
+      "thousand"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "two hundred"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b9\u03c2",
+      "four"
     ]
   ],
   "8": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0396\u03b1\u03c4\u03c4\u03bf\u03cd",
+      "Zattou"
+    ],
+    [
+      "\u03b5\u03bd\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "one hundred"
+    ],
+    [
+      "\u03c3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+      "forty"
+    ],
+    [
+      "\u03c0\u03ad\u03bd\u03c4\u03b5",
+      "five"
     ]
   ],
   "9": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0396\u03b1\u03ba\u03ba\u03ac\u03b9",
+      "Zacchaeus"
+    ],
+    [
+      "\u03b5\u03c6\u03c4\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "seven hundred"
+    ],
+    [
+      "\u03b5\u03be\u03ae\u03bd\u03c4\u03b1",
+      "sixty"
     ]
   ],
   "10": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b1\u03bd\u03af",
+      "Vani"
+    ],
+    [
+      "\u03b5\u03be\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "six hundred"
+    ],
+    [
+      "\u03c3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+      "forty"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
     ]
   ],
   "11": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b5\u03b2\u03b1\u0390",
+      "Bebai"
+    ],
+    [
+      "\u03b5\u03be\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "six hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03c4\u03c1\u03b5\u03b9\u03c2",
+      "three"
     ]
   ],
   "12": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03b6\u03b3\u03ac\u03b8",
+      "Azgath"
+    ],
+    [
+      "\u03c7\u03af\u03bb\u03b9\u03bf\u03b9",
+      "thousand"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "two hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
     ]
   ],
   "13": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03b4\u03c9\u03bd\u03b9\u03ba\u03ac\u03bc",
+      "Adonikam"
+    ],
+    [
+      "\u03b5\u03be\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "six hundred"
+    ],
+    [
+      "\u03b5\u03be\u03ae\u03bd\u03c4\u03b1",
+      "sixty"
+    ],
+    [
+      "\u03ad\u03be\u03b9",
+      "six"
     ]
   ],
   "14": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b9\u03b3\u03b2\u03b1\u0390",
+      "Vigbai"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousands"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03ad\u03be\u03b9",
+      "six"
     ]
   ],
   "15": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03b4\u03af\u03bd",
+      "Adin"
+    ],
+    [
+      "\u03c4\u03b5\u03c4\u03c1\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "four hundred"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b9\u03c2",
+      "four"
     ]
   ],
   "16": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03c4\u03ad\u03c1",
+      "At\u0113r"
+    ],
+    [
+      "\u03b4\u03b7\u03bb\u03b1\u03b4\u03ae",
+      "that is"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0395\u03b6\u03b5\u03ba\u03af\u03b1",
+      "Ezekiah"
+    ],
+    [
+      "\u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "ninety"
+    ],
+    [
+      "\u03bf\u03ba\u03c4\u03ce",
+      "eight"
     ]
   ],
   "17": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b5\u03c3\u03b1\u0390",
+      "Besa\u00ef"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "three hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03c4\u03c1\u03b5\u03b9\u03c2",
+      "three"
     ]
   ],
   "18": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0399\u03c9\u03c1\u03ac",
+      "Iora"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc\u03bd",
+      "one hundred"
+    ],
+    [
+      "\u03b4\u03ce\u03b4\u03b5\u03ba\u03b1",
+      "twelve"
     ]
   ],
   "19": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c3\u03bf\u03cd\u03bc",
+      "Hasoum"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "two hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03c4\u03c1\u03b5\u03b9\u03c2",
+      "three"
     ]
   ],
   "20": [
     [
-      "0",
-      ""
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0393\u03b9\u03b2\u03b2\u03ac\u03c1",
+      "Gibbar"
+    ],
+    [
+      "\u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "ninety"
+    ],
+    [
+      "\u03c0\u03ad\u03bd\u03c4\u03b5",
+      "five"
+    ],
+    [
+      "\u03a0\u03af\u03bd\u03b1\u03ba\u03b1\u03c2",
+      "Table"
+    ],
+    [
+      "\u03ba\u03b1\u03c4\u03ac",
+      "according to"
+    ],
+    [
+      "\u03c0\u03cc\u03bb\u03b5\u03b9\u03c2",
+      "cities"
+    ],
+    [
+      "\u03c3\u03c4\u03b9\u03c2",
+      "in the"
+    ],
+    [
+      "\u03bf\u03c0\u03bf\u03af\u03b5\u03c2",
+      "which"
+    ],
+    [
+      "\u03b5\u03af\u03c7\u03b1\u03bd",
+      "had"
+    ],
+    [
+      "\u03b6\u03ae\u03c3\u03b5\u03b9",
+      "lived"
+    ],
+    [
+      "\u03bf\u03b9",
+      "the"
+    ],
+    [
+      "\u03c0\u03c1\u03cc\u03b3\u03bf\u03bd\u03bf\u03b9",
+      "ancestors"
+    ],
+    [
+      "\u03b5\u03ba\u03b5\u03af\u03bd\u03c9\u03bd",
+      "of those"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03b5\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1\u03bd",
+      "returned"
     ]
   ],
   "21": [
     [
-      "0",
-      ""
+      "\u0391\u03c0\u03cc",
+      "From"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the"
+    ],
+    [
+      "\u0392\u03b7\u03b8\u03bb\u03b5\u03ad\u03bc",
+      "Bethlehem,"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc\u03bd",
+      "one hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03c4\u03c1\u03b5\u03b9\u03c2",
+      "three"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men;"
     ]
   ],
   "22": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (fem. sing. dat.)"
+    ],
+    [
+      "\u039d\u03b5\u03c4\u03c9\u03c6\u03ac",
+      "Netopha (proper noun)"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03ad\u03be\u03b9",
+      "six"
     ]
   ],
   "23": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the (feminine singular)"
+    ],
+    [
+      "\u0391\u03bd\u03b1\u03b8\u03ce\u03b8",
+      "Anathoth (a place name)"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc\u03bd",
+      "one hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03bf\u03ba\u03c4\u03ce",
+      "eight"
+    ],
+    [
+      "\u0387",
+      "semicolon (punctuation)"
     ]
   ],
   "24": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the (feminine singular accusative)"
+    ],
+    [
+      "\u0391\u03b6\u03bc\u03b1\u03b2\u03ad\u03b8",
+      "Azmaveth (proper noun)"
+    ],
+    [
+      "\u03c3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+      "forty"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
     ]
   ],
   "25": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the (feminine singular)"
+    ],
+    [
+      "\u039a\u03b9\u03c1\u03b9\u03ac\u03b8-\u0399\u03b1\u03c1\u03af\u03bc",
+      "Kiriath-Jearim (place name)"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the (feminine singular)"
+    ],
+    [
+      "\u039a\u03b5\u03c6\u03b9\u03c1\u03ac",
+      "Kefirah (place name)"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (feminine singular)"
+    ],
+    [
+      "\u0392\u03b5\u03c1\u03ce\u03b8",
+      "Beroth (place name)"
+    ],
+    [
+      "\u03b5\u03c6\u03c4\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "seven hundred"
+    ],
+    [
+      "\u03c3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+      "forty"
+    ],
+    [
+      "\u03c4\u03c1\u03b5\u03af\u03c2",
+      "three"
     ]
   ],
   "26": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (fem. sing. dat./acc.)"
+    ],
+    [
+      "\u03a1\u03b1\u03bc\u03ac",
+      "Rama"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (fem. sing. dat./acc.)"
+    ],
+    [
+      "\u0393\u03b5\u03b2\u03ac",
+      "Geba"
+    ],
+    [
+      "\u03b5\u03be\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "six hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03ad\u03bd\u03b1\u03c2",
+      "one"
     ]
   ],
   "27": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (fem. sing. dat./acc.)"
+    ],
+    [
+      "\u039c\u03b9\u03c7\u03bc\u03ac\u03c2",
+      "Michmas (place name)"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc\u03bd",
+      "one hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
     ]
   ],
   "28": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (fem. sing. dat.)"
+    ],
+    [
+      "\u0392\u03b1\u03b9\u03b8\u03ae\u03bb",
+      "Baithhel (proper noun)"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (fem. sing. dat.)"
+    ],
+    [
+      "\u0393\u03b1\u03b9",
+      "Gai (proper noun)"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "two hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03c4\u03c1\u03b5\u03b9\u03c2",
+      "three"
     ]
   ],
   "29": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (feminine singular)"
+    ],
+    [
+      "\u039d\u03b5\u03b2\u03ce",
+      "Nebo (proper noun)"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
     ]
   ],
   "30": [
     [
-      "0",
-      ""
+      "\u03ba\u03b9",
+      "and"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (feminine singular)"
+    ],
+    [
+      "\u039c\u03b1\u03b3\u03b2\u03af\u03c2",
+      "Magvis (proper noun)"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc\u03bd",
+      "one hundred"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03ad\u03be\u03b9",
+      "six"
     ]
   ],
   "31": [
     [
-      "0",
-      ""
+      "\u0391\u03c0\u03cc",
+      "From"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (fem. sing. acc.)"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1",
+      "kinship"
+    ],
+    [
+      "\u03b5\u03bd\u03cc\u03c2",
+      "of a (masc. sing. gen.)"
+    ],
+    [
+      "\u03ac\u03bb\u03bb\u03bf\u03c5",
+      "other (masc. sing. gen.)"
+    ],
+    [
+      "\u0395\u03bb\u03ac\u03bc",
+      "Elam (proper noun)"
+    ],
+    [
+      "\u03c7\u03af\u03bb\u03b9\u03bf\u03b9",
+      "one thousand (masc. pl. nom.)"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "two hundred (masc. pl. nom.)"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b9\u03c2",
+      "four (fem. pl. nom.)"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men"
     ]
   ],
   "32": [
     [
-      "0",
-      ""
+      "\u03ba\u03b9",
+      "and"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1",
+      "kinship"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c1\u03af\u03bc",
+      "Charim"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "three hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
     ]
   ],
   "33": [
     [
-      "0",
-      ""
+      "\u0391\u03c0\u03cc",
+      "From"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (fem. sing. dat.)"
+    ],
+    [
+      "\u039b\u03bf\u03b4",
+      "Lod"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the (fem. sing. acc.)"
+    ],
+    [
+      "\u0391\u03b4\u03af\u03b4",
+      "Adid"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the (fem. sing. acc.)"
+    ],
+    [
+      "\u03a9\u03bd\u03ce",
+      "Ono"
+    ],
+    [
+      "\u03b5\u03c6\u03c4\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "seven hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03c0\u03ad\u03bd\u03c4\u03b5",
+      "five"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men"
     ]
   ],
   "34": [
     [
-      "0",
-      ""
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the (feminine singular accusative)"
+    ],
+    [
+      "\u0399\u03b5\u03c1\u03b9\u03c7\u03ce",
+      "Jericho"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "three hundred"
+    ],
+    [
+      "\u03c3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+      "forty"
+    ],
+    [
+      "\u03c0\u03ad\u03bd\u03c4\u03b5",
+      "five"
     ]
   ],
   "35": [
     [
-      "0",
-      ""
+      "\u03ba\u03b9",
+      "and"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7",
+      "the (feminine singular)"
+    ],
+    [
+      "\u03a3\u03b5\u03bd\u03b1\u03ac",
+      "Senaah"
+    ],
+    [
+      "\u03c4\u03c1\u03b5\u03b9\u03c2",
+      "three"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousands"
+    ],
+    [
+      "\u03b5\u03be\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "six hundred"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03ac\u03bd\u03c4\u03b1",
+      "thirty"
     ]
   ],
   "36": [
     [
-      "0",
+      "\u0391\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af",
+      "follows"
+    ],
+    [
+      "\u03c0\u03af\u03bd\u03b1\u03ba\u03b1\u03c2",
+      "table"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03b9\u03b5\u03c1\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd",
+      "priestly"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03b9\u03ce\u03bd",
+      "kinships"
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03b5\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1\u03bd",
+      "returned"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the"
+    ],
+    [
+      "\u03b1\u03b9\u03c7\u03bc\u03b1\u03bb\u03c9\u03c3\u03af\u03b1",
+      "captivity"
+    ],
+    [
+      ":",
+      ""
+    ],
+    [
+      "\u0397",
+      "The"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1",
+      "kinship"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0399\u03b5\u03b4\u03b1\u0390\u03b1",
+      "Jedaiah"
+    ],
+    [
+      "(\u03b1\u03c0\u03cc\u03b3\u03bf\u03bd\u03bf\u03b9 (",
+      "descendants"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of"
+    ],
+    [
+      "\u0399\u03b7\u03c3\u03bf\u03cd)",
+      "Jesus)"
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      "\u03b5\u03bd\u03bd\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "nine hundred"
+    ],
+    [
+      "\u03b5\u03b2\u03b4\u03bf\u03bc\u03ae\u03bd\u03c4\u03b1",
+      "seventy"
+    ],
+    [
+      "\u03c4\u03c1\u03b5\u03b9\u03c2",
+      "three"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men"
+    ],
+    [
+      "\u0387 ;",
       ""
     ]
   ],
   "37": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0399\u03bc\u03bc\u03af\u03c1",
+      "Imm\u00edr"
+    ],
+    [
+      "\u03c7\u03af\u03bb\u03b9\u03bf\u03b9",
+      "thousand"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
     ]
   ],
   "38": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a0\u03b1\u03c3\u03c7\u03bf\u03cd\u03c1",
+      "Pashur"
+    ],
+    [
+      "\u03c7\u03af\u03bb\u03b9\u03bf\u03b9",
+      "thousand"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "two hundred"
+    ],
+    [
+      "\u03c3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+      "forty"
+    ],
+    [
+      "\u03b5\u03c0\u03c4\u03ac",
+      "seven"
     ]
   ],
   "39": [
     [
-      "0",
-      ""
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c1\u03af\u03bc",
+      "Charim"
+    ],
+    [
+      "\u03c7\u03af\u03bb\u03b9\u03bf\u03b9",
+      "thousand"
+    ],
+    [
+      "\u03b4\u03ad\u03ba\u03b1",
+      "ten"
+    ],
+    [
+      "\u03b5\u03c0\u03c4\u03ac",
+      "seven"
     ]
   ],
   "40": [
     [
-      "0",
+      "\u039f\u03b9",
+      "The"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2",
+      "kinships"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03bb\u03b5\u03c5\u03b9\u03c4\u03ce\u03bd",
+      "Levites"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03b5\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1\u03bd",
+      "returned"
+    ],
+    [
+      "\u03ae\u03c4\u03b1\u03bd",
+      "were"
+    ],
+    [
+      ":",
       ""
+    ],
+    [
+      "\u03a4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0399\u03b7\u03c3\u03bf\u03cd",
+      "Jesus"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039a\u03b1\u03b4\u03bc\u03b9\u03ae\u03bb",
+      "Kadmiel"
+    ],
+    [
+      "(\u03b1\u03c0\u03cc\u03b3\u03bf\u03bd\u03bf\u03b9: (",
+      "descendants"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a9\u03b4\u03bf\u03c5\u0390\u03b1)",
+      "Oduiah)"
+    ],
+    [
+      "\u03b5\u03b2\u03b4\u03bf\u03bc\u03ae\u03bd\u03c4\u03b1",
+      "seventy"
+    ],
+    [
+      "\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b9\u03c2",
+      "four"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men ."
     ]
   ],
   "41": [
     [
-      "0",
-      ""
+      "\u03a4\u03b7\u03bd",
+      "The (accusative feminine singular)"
+    ],
+    [
+      "\u03bf\u03bc\u03ac\u03b4\u03b1",
+      "team"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the (genitive plural)"
+    ],
+    [
+      "\u03c8\u03b1\u03bb\u03c4\u03ce\u03bd",
+      "chanters/singers (genitive plural)"
+    ],
+    [
+      "\u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03bf\u03cd\u03c3\u03b1\u03bd",
+      "constituted/made up"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc\u03bd",
+      "hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03bf\u03ba\u03c4\u03ce",
+      "eight"
+    ],
+    [
+      "\u03b1\u03c0\u03cc\u03b3\u03bf\u03bd\u03bf\u03b9",
+      "descendants"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the (genitive singular)"
+    ],
+    [
+      "\u0391\u03c3\u03ac\u03c6",
+      "Asaph (proper name)"
     ]
   ],
   "42": [
     [
-      "0",
+      "\u039f\u03b9",
+      "The"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2",
+      "kinships"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03b8\u03c5\u03c1\u03c9\u03c1\u03ce\u03bd",
+      "doorkeepers"
+    ],
+    [
+      "\u03ae\u03c4\u03b1\u03bd",
+      "were"
+    ],
+    [
+      ":",
       ""
+    ],
+    [
+      "\u03a4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03b1\u03bb\u03bb\u03bf\u03cd\u03bc",
+      "Salloum"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03c4\u03ad\u03c1",
+      "Ater"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a4\u03b1\u03bb\u03bc\u03ce\u03bd",
+      "Talmon"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03ba\u03ba\u03bf\u03cd\u03b2",
+      "Akkub"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c4\u03b9\u03c4\u03ac",
+      "Hatita"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03c9\u03b2\u03b1\u0390",
+      "Sovai"
+    ],
+    [
+      "\u03c3\u03cd\u03bd\u03bf\u03bb\u03bf",
+      "total"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc\u03bd",
+      "one hundred"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03ac\u03bd\u03c4\u03b1",
+      "thirty"
+    ],
+    [
+      "\u03b5\u03bd\u03bd\u03ad\u03b1",
+      "nine"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men ."
     ]
   ],
   "43": [
     [
-      "0",
-      ""
+      "\u039f\u03b9",
+      "The"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2",
+      "kinships"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03ce\u03bd",
+      "servants"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03bd\u03b1\u03bf\u03cd",
+      "temple,"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03b5\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1\u03bd",
+      "returned"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the"
+    ],
+    [
+      "\u03b1\u03b9\u03c7\u03bc\u03b1\u03bb\u03c9\u03c3\u03af\u03b1",
+      "captivity"
+    ],
+    [
+      "\u03ae\u03c4\u03b1\u03bd",
+      "were:"
+    ],
+    [
+      "\u03a4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03b9\u03c7\u03ac",
+      "Sihah,"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c3\u03bf\u03c5\u03c6\u03ac",
+      "Hasupha,"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a4\u03b1\u03b2\u03b2\u03b1\u03ce\u03b8",
+      "Tobijah,"
     ]
   ],
   "44": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039a\u03b5\u03c1\u03ce\u03c2",
+      "Keros"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03b9\u03b1\u03ac",
+      "Siaa"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a6\u03b1\u03b4\u03ce\u03bd",
+      "Phadon"
     ]
   ],
   "45": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039b\u03b5\u03b2\u03b1\u03bd\u03ac",
+      "Levana"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03b3\u03b1\u03b2\u03ac",
+      "Chagava"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03ba\u03ba\u03bf\u03cd\u03b2",
+      "Accub"
     ]
   ],
   "46": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03b3\u03ac\u03b2",
+      "Chagab"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03b1\u03bb\u03bc\u03b1\u0390",
+      "Salmai"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03bd\u03ac\u03bd",
+      "Hanan"
     ]
   ],
   "47": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0393\u03b9\u03b4\u03b4\u03ae\u03bb",
+      "Giddel"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0393\u03b1\u03c7\u03ac\u03c1",
+      "Gachar"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a1\u03b5\u03b1\u0390\u03b1",
+      "Reaia"
     ]
   ],
   "48": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a1\u03b5\u03c3\u03af\u03bd",
+      "Resin"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039d\u03b5\u03ba\u03c9\u03b4\u03ac",
+      "Nekoda"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0393\u03b1\u03b6\u03b6\u03ac\u03bc",
+      "Gazzam"
     ]
   ],
   "49": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039f\u03c5\u03b6\u03b6\u03ac",
+      "Uzza"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a6\u03b1\u03c3\u03b5\u03ac\u03c7",
+      "Phasael"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b5\u03c3\u03b1\u0390",
+      "Vesa\u00ef"
     ]
   ],
   "50": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03c3\u03b5\u03bd\u03ac",
+      "Asena"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039c\u03b5\u03bf\u03c5\u03bd\u03b5\u03af\u03bc",
+      "Meuneim"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039d\u03b5\u03c6\u03bf\u03c5\u03c3\u03b5\u03af\u03bc",
+      "Nefouseim"
     ]
   ],
   "51": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b1\u03ba\u03b2\u03b2\u03bf\u03cd\u03ba",
+      "Bakbbouk"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03ba\u03bf\u03c5\u03c6\u03ac",
+      "Chakoufa"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c1\u03c7\u03bf\u03cd\u03c1",
+      "Charchour"
     ]
   ],
   "52": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b1\u03c3\u03bb\u03bf\u03cd\u03b8",
+      "Baslouth"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039c\u03b5\u03c7\u03b9\u03b4\u03ac",
+      "Mehida"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c1\u03b5\u03ac",
+      "Charea"
     ]
   ],
   "53": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b1\u03c1\u03ba\u03ce\u03c2",
+      "Barkos"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03af\u03c3\u03b5\u03c1\u03b1",
+      "Sisera"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0398\u03ac\u03bc\u03b1\u03c7",
+      "Thamach"
     ]
   ],
   "54": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039d\u03b5\u03c3\u03b9\u03ac\u03c7",
+      "Nesiakh"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c4\u03b9\u03c6\u03ac",
+      "Khatifa"
     ]
   ],
   "55": [
     [
-      "0",
+      "\u039f\u03b9",
+      "The"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2",
+      "kinships"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03b1\u03c0\u03bf\u03b3\u03cc\u03bd\u03c9\u03bd",
+      "descendants"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03b4\u03bf\u03cd\u03bb\u03c9\u03bd",
+      "slaves"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of"
+    ],
+    [
+      "\u03a3\u03bf\u03bb\u03bf\u03bc\u03ce\u03bd\u03c4\u03b1",
+      "Solomon"
+    ],
+    [
+      "\u03ae\u03c4\u03b1\u03bd",
+      "were"
+    ],
+    [
+      ":",
       ""
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of"
+    ],
+    [
+      "\u03a3\u03c9\u03c4\u03b1\u0390",
+      "Sota\u00ef"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of"
+    ],
+    [
+      "\u03a3\u03c9\u03c6\u03ad\u03c1\u03b5\u03b8",
+      "Soph\u00e9reth"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of"
+    ],
+    [
+      "\u03a6\u03b5\u03c1\u03bf\u03c5\u03b4\u03ac",
+      "Feroud\u00e1"
     ]
   ],
   "56": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0399\u03b1\u03b1\u03bb\u03ac",
+      "Iaala"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0394\u03b1\u03c1\u03ba\u03ce\u03bd",
+      "Darkon"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0393\u03b9\u03b4\u03b4\u03ae\u03bb",
+      "Giddel"
     ]
   ],
   "57": [
     [
-      "0",
-      ""
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03b1\u03c6\u03b1\u03c4\u03af\u03b1",
+      "Saphatia"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a7\u03b1\u03c4\u03c4\u03af\u03bb",
+      "Khattil"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a6\u03bf\u03c7\u03b5\u03c1\u03ad\u03b8",
+      "Fochereth"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03b5\u03b2\u03b1\u0390\u03bc",
+      "Sevaim"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03bc\u03af",
+      "Ami"
     ]
   ],
   "58": [
     [
-      "0",
-      ""
+      "\u038c\u03bb\u03bf\u03b9",
+      "All"
+    ],
+    [
+      "\u03bc\u03b1\u03b6\u03af",
+      "together"
+    ],
+    [
+      "\u03bf\u03b9",
+      "the"
+    ],
+    [
+      "\u03b1\u03c0\u03cc\u03b3\u03bf\u03bd\u03bf\u03b9",
+      "descendants"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03ce\u03bd",
+      "servants"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03bd\u03b1\u03bf\u03cd",
+      "temple"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03b4\u03bf\u03cd\u03bb\u03c9\u03bd",
+      "slaves"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a3\u03bf\u03bb\u03bf\u03bc\u03ce\u03bd\u03c4\u03b1",
+      "Solomon"
+    ],
+    [
+      "\u03ae\u03c4\u03b1\u03bd",
+      "were"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "three hundred"
+    ],
+    [
+      "\u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "ninety"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men"
     ]
   ],
   "59": [
     [
-      "0",
-      ""
+      "\u0391\u03c0\u03cc",
+      "From"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "the (feminine plural)"
+    ],
+    [
+      "\u03c0\u03cc\u03bb\u03b5\u03b9\u03c2",
+      "cities"
+    ],
+    [
+      "\u03a4\u03b5\u03bb-\u039c\u03b5\u03bb\u03ac\u03c7,",
+      "Tel-Melah,"
+    ],
+    [
+      "\u03a4\u03b5\u03bb-\u03a7\u03b1\u03c1\u03c3\u03ac,",
+      "Tel-Kharsa,"
+    ],
+    [
+      "\u03a7\u03b5\u03c1\u03bf\u03cd\u03b2-\u0391\u03b4\u03b4\u03ac\u03bd",
+      "Cherub-Addan"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u0399\u03bc\u03bc\u03ae\u03c1",
+      "Immer"
+    ],
+    [
+      "\u03b5\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1\u03bd",
+      "returned"
+    ],
+    [
+      "\u03b9\u03b5\u03c1\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2",
+      "priestly"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2,",
+      "kinships,"
+    ],
+    [
+      "\u03bf\u03b9",
+      "which"
+    ],
+    [
+      "\u03bf\u03c0\u03bf\u03af\u03b5\u03c2",
+      "however"
+    ],
+    [
+      "\u03cc\u03bc\u03c9\u03c2",
+      "could not"
+    ],
+    [
+      "\u03b4\u03b5\u03bd",
+      "not"
+    ],
+    [
+      "\u03bc\u03c0\u03cc\u03c1\u03b5\u03c3\u03b1\u03bd",
+      "were able"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03c6\u03ad\u03c1\u03bf\u03c5\u03bd",
+      "bring"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "the (feminine plural)"
+    ],
+    [
+      "\u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b5\u03c2",
+      "necessary"
+    ],
+    [
+      "\u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2",
+      "information"
+    ],
+    [
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "the (feminine plural)"
+    ],
+    [
+      "\u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2",
+      "families"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03c0\u03c1\u03bf\u03b3\u03cc\u03bd\u03c9\u03bd",
+      "ancestors"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2,",
+      "their,"
+    ],
+    [
+      "\u03ce\u03c3\u03c4\u03b5",
+      "so that"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03b1\u03c0\u03bf\u03b4\u03b5\u03af\u03be\u03bf\u03c5\u03bd",
+      "prove"
+    ],
+    [
+      "\u03cc\u03c4\u03b9",
+      "that"
+    ],
+    [
+      "\u03ba\u03b1\u03c4\u03ac\u03b3\u03bf\u03bd\u03c4\u03b1\u03bd",
+      "descended"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u0399\u03c3\u03c1\u03b1\u03b7\u03bb\u03af\u03c4\u03b5\u03c2.",
+      "Israelites."
     ]
   ],
   "60": [
     [
-      "0",
-      ""
+      "\u0391\u03c5\u03c4\u03bf\u03af",
+      "These"
+    ],
+    [
+      "\u03ae\u03c4\u03b1\u03bd",
+      "were"
+    ],
+    [
+      "\u03b1\u03c0\u03cc\u03b3\u03bf\u03bd\u03bf\u03b9",
+      "descendants"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0394\u03b5\u03bb\u03b1\u0390\u03b1",
+      "Delaias"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03a4\u03c9\u03b2\u03af\u03b1",
+      "Tobias"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039d\u03b5\u03ba\u03c9\u03b4\u03ac",
+      "Nekoda"
+    ],
+    [
+      "\u03c3\u03cd\u03bd\u03bf\u03bb\u03bf",
+      "total"
+    ],
+    [
+      "\u03b5\u03be\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "six hundred"
+    ],
+    [
+      "\u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1",
+      "fifty"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men"
     ]
   ],
   "61": [
     [
-      "0",
+      "\u03a4\u03bf",
+      "The"
+    ],
+    [
+      "\u03af\u03b4\u03b9\u03bf",
+      "same"
+    ],
+    [
+      "\u03c3\u03c5\u03bd\u03ad\u03b2\u03b7",
+      "happened"
+    ],
+    [
+      "\u03bc\u03b5",
+      "with"
+    ],
+    [
+      "\u03bf\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
+      "certain"
+    ],
+    [
+      "\u03ac\u03bb\u03bb\u03bf\u03c5\u03c2",
+      "other"
+    ],
+    [
+      "\u03b1\u03c0\u03bf\u03b3\u03cc\u03bd\u03bf\u03c5\u03c2",
+      "descendants"
+    ],
+    [
+      "\u03b9\u03b5\u03c1\u03ad\u03c9\u03bd",
+      "of priests"
+    ],
+    [
+      ":",
       ""
+    ],
+    [
+      ":",
+      ""
+    ],
+    [
+      "\u03a4\u03bf\u03c5",
+      "Of the"
+    ],
+    [
+      "\u03a7\u03b1\u03b2\u03b1\u0390\u03b1",
+      "Chavayah"
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0391\u03ba\u03ba\u03ce\u03c2",
+      "Akkoos"
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0392\u03b1\u03c1\u03b6\u03b9\u03bb\u03bb\u03b1\u0390",
+      "Barzillai"
+    ],
+    [
+      "(",
+      ""
+    ],
+    [
+      "(",
+      ""
+    ],
+    [
+      "\u03bf",
+      "who"
+    ],
+    [
+      "\u03bf\u03bd\u03bf\u03bc\u03b1\u03b6\u03cc\u03c4\u03b1\u03bd",
+      "was called"
+    ],
+    [
+      "\u03ad\u03c4\u03c3\u03b9",
+      "thus"
+    ],
+    [
+      "\u03b3\u03b9\u03b1\u03c4\u03af",
+      "because"
+    ],
+    [
+      "\u03b5\u03af\u03c7\u03b5",
+      "he had"
+    ],
+    [
+      "\u03c0\u03ac\u03c1\u03b5\u03b9",
+      "taken"
+    ],
+    [
+      "\u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b1",
+      "wife"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of him"
+    ],
+    [
+      "\u03bc\u03b9\u03b1",
+      "one"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "of"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "the"
+    ],
+    [
+      "\u03ba\u03cc\u03c1\u03b5\u03c2",
+      "daughters"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0393\u03b1\u03bb\u03b1\u03b1\u03b4\u03af\u03c4\u03b7",
+      "Galaadite"
+    ],
+    [
+      "\u0392\u03b1\u03c1\u03b6\u03b9\u03bb\u03bb\u03b1\u0390",
+      "Barzillai ) ) . ."
     ]
   ],
   "62": [
     [
-      "0",
-      ""
+      "\u038c\u03bb\u03bf\u03b9",
+      "All"
+    ],
+    [
+      "\u03b1\u03c5\u03c4\u03bf\u03af",
+      "these"
+    ],
+    [
+      "\u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b1\u03bd",
+      "sought"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the"
+    ],
+    [
+      "\u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae",
+      "registration"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "their"
+    ],
+    [
+      "\u03c3\u03c4\u03bf\u03c5\u03c2",
+      "in the"
+    ],
+    [
+      "\u03b3\u03b5\u03bd\u03b5\u03b1\u03bb\u03bf\u03b3\u03b9\u03ba\u03bf\u03cd\u03c2",
+      "genealogical"
+    ],
+    [
+      "\u03ba\u03b1\u03c4\u03b1\u03bb\u03cc\u03b3\u03bf\u03c5\u03c2",
+      "lists"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03c0\u03c1\u03bf\u03b3\u03cc\u03bd\u03c9\u03bd",
+      "ancestors"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "their"
+    ],
+    [
+      "\u03b1\u03bb\u03bb\u03ac",
+      "but"
+    ],
+    [
+      "\u03b4\u03b5",
+      "not"
+    ],
+    [
+      "\u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd",
+      "were found"
+    ],
+    [
+      "\u03b5\u03ba\u03b5\u03af",
+      "there"
+    ],
+    [
+      "\u03ad\u03c4\u03c3\u03b9",
+      "thus"
+    ],
+    [
+      "\u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd",
+      "were excluded"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b7\u03bd",
+      "the"
+    ],
+    [
+      "\u03b9\u03b5\u03c1\u03bf\u03c3\u03cd\u03bd\u03b7",
+      "priesthood"
     ]
   ],
   "63": [
     [
-      "0",
+      "\u039f",
+      "the"
+    ],
+    [
+      "\u03af\u03b4\u03b9\u03bf\u03c2",
+      "same/self"
+    ],
+    [
+      "\u03bf",
+      "the"
+    ],
+    [
+      "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03ae\u03c4\u03b7\u03c2",
+      "governor/captain"
+    ],
+    [
+      "\u03c4\u03bf\u03cd\u03c2",
+      "the (acc. pl. masc.)"
+    ],
+    [
+      "\u03b1\u03c0\u03b1\u03b3\u03cc\u03c1\u03b5\u03c5\u03c3\u03b5",
+      "forbade"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03c4\u03c1\u03ce\u03bd\u03b5",
+      "eat (subjunctive)"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "the (acc. pl. fem.)"
+    ],
+    [
+      "\u03b1\u03b3\u03b9\u03cc\u03c4\u03b1\u03c4\u03b5\u03c2",
+      "most holy"
+    ],
+    [
+      "\u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ad\u03c2",
+      "offerings"
+    ],
+    [
+      ",",
       ""
+    ],
+    [
+      "\u03c9\u03c3\u03cc\u03c4\u03bf\u03c5",
+      "until"
+    ],
+    [
+      "\u03ad\u03bd\u03b1\u03c2",
+      "a/one"
+    ],
+    [
+      "\u03b9\u03b5\u03c1\u03ad\u03b1\u03c2",
+      "priest"
+    ],
+    [
+      "\u03c3\u03c5\u03bc\u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03b5\u03af",
+      "consult (subjunctive)"
+    ],
+    [
+      "\u03c4\u03b1",
+      "the (acc. pl. neut.)"
+    ],
+    [
+      "\u039f\u03c5\u03c1\u03af\u03bc",
+      "Urim"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c4\u03b1",
+      "the (acc. pl. neut.)"
+    ],
+    [
+      "\u0398\u03bf\u03c5\u03bc\u03bc\u03af\u03bc",
+      "Thummim ."
     ]
   ],
   "64": [
     [
-      "0",
-      ""
+      "\u038c\u03bb\u03b7",
+      "Whole"
+    ],
+    [
+      "\u03b7",
+      "the"
+    ],
+    [
+      "\u03c3\u03cd\u03bd\u03b1\u03be\u03b7",
+      "gathering"
+    ],
+    [
+      "\u03bc\u03b1\u03b6\u03af",
+      "together"
+    ],
+    [
+      "\u03ad\u03c6\u03c4\u03b1\u03bd\u03b5",
+      "reached"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "the"
+    ],
+    [
+      "\u03c3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+      "forty"
+    ],
+    [
+      "\u03b4\u03cd\u03bf",
+      "two"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousands"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03c5\u03c2",
+      "three hundred"
+    ],
+    [
+      "\u03b5\u03be\u03ae\u03bd\u03c4\u03b1",
+      "sixty"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men"
     ]
   ],
   "65": [
     [
-      "0",
-      ""
+      "\u03b5\u03ba\u03c4\u03cc\u03c2",
+      "except"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "the (acc. pl. masc.)"
+    ],
+    [
+      "\u03b4\u03bf\u03cd\u03bb\u03bf\u03c5\u03c2",
+      "slaves"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "their"
+    ],
+    [
+      "\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2",
+      "men"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b5\u03c2",
+      "women"
+    ],
+    [
+      "\u03c0\u03bf\u03c5",
+      "who"
+    ],
+    [
+      "\u03ad\u03c6\u03c4\u03b1\u03bd\u03b1\u03bd",
+      "reached"
+    ],
+    [
+      "\u03c4\u03b9\u03c2",
+      "the (acc. pl. fem.)"
+    ],
+    [
+      "\u03b5\u03c6\u03c4\u03ac",
+      "seven"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousands"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+      "three hundred"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03ac\u03bd\u03c4\u03b1",
+      "thirty"
+    ],
+    [
+      "\u03b5\u03c6\u03c4\u03ac",
+      "seven"
+    ],
+    [
+      "\u03ac\u03c4\u03bf\u03bc\u03b1",
+      "persons"
+    ],
+    [
+      "\u03b5\u03c0\u03af\u03c3\u03b7\u03c2",
+      "also"
+    ],
+    [
+      "\u03c5\u03c0\u03ae\u03c1\u03c7\u03b1\u03bd",
+      "there were"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03bf\u03b9",
+      "two hundred"
+    ],
+    [
+      "\u03c8\u03ac\u03bb\u03c4\u03b5\u03c2",
+      "chanters (male)"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c8\u03ac\u03bb\u03c4\u03c1\u03b9\u03b5\u03c2",
+      "chanters (female)"
     ]
   ],
   "66": [
     [
-      "0",
-      ""
+      "\u039c\u03b1\u03b6\u03af",
+      "Together"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "them"
+    ],
+    [
+      "\u03b5\u03af\u03c7\u03b1\u03bd",
+      "had"
+    ],
+    [
+      "\u03b5\u03c6\u03c4\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+      "seven hundred"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03ac\u03bd\u03c4\u03b1",
+      "thirty"
+    ],
+    [
+      "\u03ad\u03be\u03b9",
+      "six"
+    ],
+    [
+      "\u03ac\u03bb\u03bf\u03b3\u03b1",
+      "horses"
+    ],
+    [
+      "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+      "two hundred"
+    ],
+    [
+      "\u03c3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+      "forty"
+    ],
+    [
+      "\u03c0\u03ad\u03bd\u03c4\u03b5",
+      "five"
+    ],
+    [
+      "\u03bc\u03bf\u03c5\u03bb\u03ac\u03c1\u03b9\u03b1",
+      "mules"
     ]
   ],
   "67": [
     [
-      "0",
-      ""
+      "\u03c4\u03b5\u03c4\u03c1\u03b1\u03ba\u03cc\u03c3\u03b9\u03b5\u03c2",
+      "four hundred"
+    ],
+    [
+      "\u03c4\u03c1\u03b9\u03ac\u03bd\u03c4\u03b1",
+      "thirty"
+    ],
+    [
+      "\u03c0\u03ad\u03bd\u03c4\u03b5",
+      "five"
+    ],
+    [
+      "\u03ba\u03b1\u03bc\u03ae\u03bb\u03b5\u03c2",
+      "camels"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03ad\u03be\u03b9",
+      "six"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousands"
+    ],
+    [
+      "\u03b5\u03c6\u03c4\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+      "seven hundred"
+    ],
+    [
+      "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9",
+      "twenty"
+    ],
+    [
+      "\u03b3\u03b1\u03ca\u03b4\u03bf\u03cd\u03c1\u03b9\u03b1",
+      "donkeys"
     ]
   ],
   "68": [
     [
-      "0",
+      "\u039c\u03cc\u03bb\u03b9\u03c2",
+      "just"
+    ],
+    [
+      "\u03ad\u03c6\u03c4\u03b1\u03c3\u03b1\u03bd",
+      "they arrived"
+    ],
+    [
+      "\u03c3\u03c4\u03bf",
+      "to the"
+    ],
+    [
+      "\u03bd\u03b1\u03cc",
+      "temple"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u039a\u03c5\u03c1\u03af\u03bf\u03c5",
+      "Lord"
+    ],
+    [
+      ",",
       ""
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      "\u03c3\u03c4\u03b7\u03bd",
+      "in the"
+    ],
+    [
+      "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc",
+      "Jerusalem"
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      ",",
+      ""
+    ],
+    [
+      "\u03bc\u03b5\u03c1\u03b9\u03ba\u03bf\u03af",
+      "some"
+    ],
+    [
+      "\u03b1\u03c1\u03c7\u03b7\u03b3\u03bf\u03af",
+      "leaders"
+    ],
+    [
+      "\u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03b9\u03ce\u03bd",
+      "of families"
+    ],
+    [
+      "\u03ad\u03ba\u03b1\u03bd\u03b1\u03bd",
+      "they made"
+    ],
+    [
+      "\u03c0\u03c1\u03bf\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ad\u03c2",
+      "voluntary"
+    ],
+    [
+      "\u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ad\u03c2",
+      "offerings"
+    ],
+    [
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03be\u03b1\u03bd\u03b1\u03c7\u03c4\u03b9\u03c3\u03c4\u03b5\u03af",
+      "be rebuilt"
+    ],
+    [
+      "\u03bf",
+      "the"
+    ],
+    [
+      "\u03bd\u03b1\u03cc\u03c2",
+      "temple"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u0398\u03b5\u03bf\u03cd",
+      "God"
+    ],
+    [
+      "\u03c3\u03c4\u03b7",
+      "at the"
+    ],
+    [
+      "\u03b8\u03ad\u03c3\u03b7",
+      "place"
+    ],
+    [
+      "\u03cc\u03c0\u03bf\u03c5",
+      "where"
+    ],
+    [
+      "\u03ae\u03c4\u03b1\u03bd",
+      "was"
+    ],
+    [
+      "\u03c0\u03c1\u03c9\u03c4\u03cd\u03c4\u03b5\u03c1\u03b1",
+      "before"
     ]
   ],
   "69": [
     [
-      "0",
+      "\u0388\u03b4\u03c9\u03c3\u03b1\u03bd",
+      "They gave"
+    ],
+    [
+      "\u03cc,\u03c4\u03b9",
+      "whatever"
+    ],
+    [
+      "\u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03c3\u03b1\u03bd",
+      "they could"
+    ],
+    [
+      "\u03b3\u03b9\u03b1",
+      "for"
+    ],
+    [
+      "\u03bd\u03b1",
+      "to"
+    ],
+    [
+      "\u03c7\u03c4\u03b9\u03c3\u03c4\u03b5\u03af",
+      "be built"
+    ],
+    [
+      "\u03c4\u03bf",
+      "the"
+    ],
+    [
+      "\u03ad\u03c1\u03b3\u03bf",
+      "work/project"
+    ],
+    [
+      ":",
       ""
+    ],
+    [
+      "\u0395\u03be\u03ae\u03bd\u03c4\u03b1",
+      "Sixty"
+    ],
+    [
+      "\u03bc\u03af\u03b1",
+      "one"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousands"
+    ],
+    [
+      "\u03c7\u03c1\u03c5\u03c3\u03bf\u03cd\u03c2",
+      "golden"
+    ],
+    [
+      "\u03b4\u03b1\u03c1\u03b5\u03b9\u03ba\u03bf\u03cd\u03c2",
+      "Dareikoi (ancient gold coins)"
+    ],
+    [
+      "\u03c0\u03ad\u03bd\u03c4\u03b5",
+      "five"
+    ],
+    [
+      "\u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2",
+      "thousands"
+    ],
+    [
+      "\u03b1\u03c3\u03b7\u03bc\u03ad\u03bd\u03b9\u03b5\u03c2",
+      "silver"
+    ],
+    [
+      "\u03bc\u03bd\u03b5\u03c2",
+      "mina (unit of weight/money)"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03b5\u03ba\u03b1\u03c4\u03cc",
+      "one hundred"
+    ],
+    [
+      "\u03b9\u03b5\u03c1\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2",
+      "priestly"
+    ],
+    [
+      "\u03c3\u03c4\u03bf\u03bb\u03ad\u03c2",
+      "robes"
     ]
   ],
   "70": [
     [
-      "0",
-      ""
+      "\u039f\u03b9",
+      "The"
+    ],
+    [
+      "\u03b9\u03b5\u03c1\u03b5\u03af\u03c2",
+      "priests"
+    ],
+    [
+      "\u03bf\u03b9",
+      "the"
+    ],
+    [
+      "\u03bb\u03b5\u03c5\u03af\u03c4\u03b5\u03c2",
+      "Levites"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03bc\u03b5\u03c1\u03b9\u03ba\u03bf\u03af",
+      "some"
+    ],
+    [
+      "\u03b1\u03c0\u03cc",
+      "from"
+    ],
+    [
+      "\u03c4\u03bf",
+      "the"
+    ],
+    [
+      "\u03bb\u03b1\u03cc",
+      "people, nation, populace, crowd, public, folk, common people, common folk, common, populace, folk, people"
+    ],
+    [
+      "\u03cc\u03c0\u03c9\u03c2",
+      "as, like, such as"
+    ],
+    [
+      "\u03b8\u03c5\u03c1\u03c9\u03c1\u03bf\u03af",
+      "doorkeepers, gatekeepers"
+    ],
+    [
+      "\u03c8\u03ac\u03bb\u03c4\u03b5\u03c2",
+      "singers, chanters, psalters"
+    ],
+    [
+      "\u03ba\u03b1\u03b9",
+      "and"
+    ],
+    [
+      "\u03c5\u03c0\u03b7\u03c1\u03ad\u03c4\u03b5\u03c2",
+      "servants, attendants, ministers"
+    ],
+    [
+      "\u03c4\u03bf\u03c5",
+      "of the"
+    ],
+    [
+      "\u03bd\u03b1\u03bf\u03cd",
+      "temple"
+    ],
+    [
+      "\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ac\u03b8\u03b7\u03ba\u03b1\u03bd",
+      "settled, established themselves"
+    ],
+    [
+      "\u03c3\u03c4\u03b9\u03c2",
+      "in the"
+    ],
+    [
+      "\u03c0\u03cc\u03bb\u03b5\u03b9\u03c2",
+      "cities, towns"
+    ],
+    [
+      "\u03c3\u03c4\u03b9\u03c2",
+      "in the"
+    ],
+    [
+      "\u03bf\u03c0\u03bf\u03af\u03b5\u03c2",
+      "which"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "them"
+    ],
+    [
+      "\u03ba\u03b1\u03c4\u03ad\u03bd\u03b5\u03b9\u03bc\u03b1\u03bd",
+      "assigned, distributed, apportioned"
+    ],
+    [
+      "\u0395\u03bd\u03ce",
+      "while, whereas"
+    ],
+    [
+      "\u03cc\u03bb\u03bf\u03b9",
+      "all"
+    ],
+    [
+      "\u03bf\u03b9",
+      "the"
+    ],
+    [
+      "\u03ac\u03bb\u03bb\u03bf\u03b9",
+      "other"
+    ],
+    [
+      "\u0399\u03c3\u03c1\u03b1\u03b7\u03bb\u03af\u03c4\u03b5\u03c2",
+      "Israelites"
+    ],
+    [
+      "\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ac\u03b8\u03b7\u03ba\u03b1\u03bd",
+      "settled, established themselves"
+    ],
+    [
+      "\u03c3\u03c4\u03b9\u03c2",
+      "in the"
+    ],
+    [
+      "\u03c0\u03cc\u03bb\u03b5\u03b9\u03c2",
+      "cities, towns"
+    ],
+    [
+      "\u03c4\u03c9\u03bd",
+      "of the"
+    ],
+    [
+      "\u03c0\u03c1\u03bf\u03b3\u03cc\u03bd\u03c9\u03bd",
+      "ancestors, forefathers"
+    ],
+    [
+      "\u03c4\u03bf\u03c5\u03c2",
+      "their"
     ]
   ]
 }
